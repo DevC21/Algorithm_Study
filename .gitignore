@@ -399,6 +399,14 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
+# exe files from build outputs
+*.exe
+
+# VSCode setting file
+launch.json
+tasks.json
+settings.json
+
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
