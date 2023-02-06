@@ -6,7 +6,7 @@ https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md
 ## 목차
 ```
 0x01강 - 기초 코드 작성 요령 I -- 완료
-0x02강 - 기초 코드 작성 요령 II
+0x02강 - 기초 코드 작성 요령 II -- 완료
 0x03강 - 배열
 0x04강 - 연결 리스트
 0x05강 - 스택
