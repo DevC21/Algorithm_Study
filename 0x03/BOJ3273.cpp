@@ -5,6 +5,9 @@ int arr[1000005];
 int intarr[2000005];
 
 int main(void){
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    
     int n, x;
     int cnt = 0;
 

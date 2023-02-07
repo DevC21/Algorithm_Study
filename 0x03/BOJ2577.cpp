@@ -4,6 +4,9 @@ using namespace std;
 int idx[10];
 
 int main(void){
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    
     int a, b, c;
     int i = 10;
     cin >> a >> b >> c;
