@@ -9,9 +9,9 @@ https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md
 0x02강 - 기초 코드 작성 요령 II -- 완료
 0x03강 - 배열 -- 완료
 0x04강 - 연결 리스트 -- 완료
-0x05강 - 스택 ~Tower까지 완료
+0x05강 - 스택 -- ~Tower까지 완료
 0x06강 - 큐 -- 완료
-0x07강 - 덱
+0x07강 - 덱 -- ~AC까지 완료
 0x08강 - 스택의 활용(수식의 괄호 쌍)
 0x09강 - BFS
 0x0A강 - DFS
