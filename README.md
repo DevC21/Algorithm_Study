@@ -13,7 +13,7 @@ https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md
 0x06강 - 큐 -- 완료
 0x07강 - 덱 -- ~AC까지 완료
 0x08강 - 스택의 활용(수식의 괄호 쌍) ~괄호까지 완료
-0x09강 - BFS ~5427 불 까지 완료
+0x09강 - BFS ~스타트링크까지 완료
 0x0A강 - DFS
 0x0B강 - 재귀
 0x0C강 - 백트래킹
