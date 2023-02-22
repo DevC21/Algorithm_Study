@@ -15,7 +15,7 @@ https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md
 0x08강 - 스택의 활용(수식의 괄호 쌍) ~괄호까지 완료
 0x09강 - BFS ~벽 부수고 이동하기까지 완료
 0x0A강 - DFS
-0x0B강 - 재귀 ~종이의 개수까지 완료
+0x0B강 - 재귀 ~쿼드트리까지 완료
 0x0C강 - 백트래킹
 0x0D강 - 시뮬레이션
 0x0E강 - 정렬 I
