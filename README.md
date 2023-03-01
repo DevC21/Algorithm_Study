@@ -19,7 +19,7 @@ https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md
 0x0C강 - 백트래킹 ~N-Queen까지(솔직히 하나도 모르겠음)
 0x0D강 - 시뮬레이션
 0x0E강 - 정렬 I ~수 정렬하기 5까지 완료
-0x0F강 - 정렬 II ~접미사 배열까지 완료
+0x0F강 - 정렬 II -- 완료 (국영수 제외)
 0x10강 - 다이나믹 프로그래밍
 0x11강 - 그리디
 0x12강 - 수학
