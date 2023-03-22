@@ -23,7 +23,7 @@ https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md
 0x10강 - 다이나믹 프로그래밍 ~파도반 수열까지 완료
 0x11강 - 그리디 ~선 긋기까지 완료 (강의실 배정제외)
 0x12강 - 수학 ~캠핑까지 완료
-0x13강 - 이분탐색 ~차집합까지 완료
+0x13강 - 이분탐색 ~멀티버스 II까지 완료
 0x14강 - 투 포인터
 0x15강 - 해시
 0x16강 - 이진 검색 트리
