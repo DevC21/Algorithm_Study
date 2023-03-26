@@ -2,6 +2,8 @@
 [바킹독의 실전 알고리즘] 문제풀이
 
 https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md
+
+https://www.acmicpc.net/user/gamedevc
 ## 
 ## 목차
 ```
