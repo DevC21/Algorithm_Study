@@ -25,7 +25,7 @@ https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md
 0x12강 - 수학 ~캠핑까지 완료
 0x13강 - 이분탐색 ~멀티버스 II까지 완료
 0x14강 - 투 포인터 ~수들의 합 2까지 완료 (소수의 연속합제외)
-0x15강 - 해시
+0x15강 - 해시 ~나는야 포켓몬 마스터 이다솜까지 완료
 0x16강 - 이진 검색 트리
 0x17강 - 우선순위 큐
 0x18강 - 그래프
