@@ -9,7 +9,7 @@ void DFS(int cur){
         if (p[cur] == nxt)
             continue;
         p[nxt] = cur;
-        DFS(nxt); // Àç±Í
+        DFS(nxt); // Recursion
     }
 }
 

@@ -18,7 +18,7 @@ void bfs(int root){
                 continue;
             q.push(nxt);
             p[nxt] = cur;
-            depth[nxt] = depth[cur] = 1; //자식의 depth는 부모의 depth + 1임
+            depth[nxt] = depth[cur] + 1; //자식의 depth는 부모의 depth + 1임
         }
     }
 }
@@ -35,7 +35,7 @@ void dfsNonRecur(int root){
                 continue;
             s.push(nxt);
             p[nxt] = cur;
-            depth[nxt] = depth[cur] = 1; //자식의 depth는 부모의 depth + 1임
+            depth[nxt] = depth[cur] + 1; //자식의 depth는 부모의 depth + 1임
         }
     }
 }
@@ -46,7 +46,7 @@ void dfsRecur(int cur){
         if (p[cur] == nxt)
             continue;
         p[nxt] = cur;
-        depth[nxt] = depth[cur] = 1;
+        depth[nxt] = depth[cur] + 1;
         dfsRecur(nxt); // 재귀
     }
 }
