@@ -13,6 +13,8 @@ int getParent(int parent[], int x) {
 void unionParent(int parent[], int a, int b){
     a = getParent(parent, a);
     b = getParent(parent, b);
+
+    // 더 작은 값으로 부모를 합쳐줌
     if(a < b) 
         parent[b] = a;
     else
