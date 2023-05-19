@@ -38,7 +38,7 @@ https://www.acmicpc.net/user/gamedevc
 0x1D강 - 다익스트라 알고리즘 ~골목 대장 호석 - 효율성 2까지 완료
 0x1E강 - KMP 알고리즘 
 0x1F강 - 트라이
-부록 1 - 문자열 기초 ~Java vs C++까지 완료
+부록 1 - 문자열 기초 ~DNA까지 완료
 부록 2 - 동적 배열
 부록 3 - 비트마스킹
 부록 4 - Union Find
