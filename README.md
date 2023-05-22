@@ -5,6 +5,9 @@ https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md
 
 https://www.acmicpc.net/user/gamedevc
 ## 
+<details>
+<summary>[바킹독의 실전 알고리즘] 문제집 목차 접기/펼치기</summary>
+  
 ## 목차
 ```
 0x01강 - 기초 코드 작성 요령 I -- 완료
@@ -44,3 +47,15 @@ https://www.acmicpc.net/user/gamedevc
 부록 4 - Union Find
 부록 5 - 다이나믹 프로그래밍 심화
 ```
+
+</details>
+
+<details>
+<summary>Programmers 진행도 목차 접기/펼치기</summary>
+  
+## 목차
+```
+Level 1 : 1 / 77
+```
+
+</details>
