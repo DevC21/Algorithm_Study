@@ -52,7 +52,7 @@
 
 ##
 
-[프로그래머스] 문제 풀이
+[프로그래머스] 문제풀이
   
 #### [Level 1](https://school.programmers.co.kr/learn/challenges?order=recent&levels=1&languages=cpp)
 #### [Level 2](https://school.programmers.co.kr/learn/challenges?order=recent&levels=2&languages=cpp)
