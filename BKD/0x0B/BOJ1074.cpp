@@ -4,7 +4,8 @@ using namespace std;
 int func(int n, int r, int c){
     if(n == 0) 
         return 0;
-    int half = 1<<(n-1);
+    // 비트 시프트 (2^n-1)
+    int half = 1 << (n-1);
     if(r < half && c < half)
         return func(n-1, r, c);
     if(r < half && c >= half)
