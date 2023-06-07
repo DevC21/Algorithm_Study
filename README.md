@@ -3,7 +3,7 @@
 
 #### [바킹독의 실전 알고리즘 문제집](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
 
-#### [백준 프로필](https://www.acmicpc.net/user/gamedevc)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gamedevc)](https://solved.ac/gamedevc/)
 ## 
 <details>
 <summary>[바킹독의 실전 알고리즘] 문제집 목차 접기/펼치기</summary>
@@ -21,7 +21,7 @@
 0x09강 - BFS ~벽 부수고 이동하기 2(텀 프로젝트 제외)까지 완료
 0x0A강 - DFS
 0x0B강 - 재귀 ~별 찍기 11까지 완료
-0x0C강 - 백트래킹 ~N과 M (3)까지 완료
+0x0C강 - 백트래킹 ~N과 M (4)까지 완료
 0x0D강 - 시뮬레이션
 0x0E강 - 정렬 I ~수 정렬하기 5까지 완료
 0x0F강 - 정렬 II -- 완료 (국영수 제외)
@@ -60,11 +60,11 @@
 ##
 
 <details>
-<summary>Programmers 진행도 목차 접기/펼치기</summary>
+<summary>Programmers 진행도 접기/펼치기</summary>
   
-## 목차
+## 진행도
 ```
-Level 1 : 16 / 77
+Level 1 : 17 / 77
 ```
 
 </details>
