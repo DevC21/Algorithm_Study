@@ -17,6 +17,10 @@ void func(int cur){
 
     for(int i = 0; i < n; i++){
         if(!isused[vec[i]]){
+            if(cur != 0){
+                if(arr[cur - 1] > vec[i])
+                    continue;
+            }
             arr[cur] = vec[i];
             isused[vec[i]] = 1;
             func(cur + 1);
@@ -36,7 +40,7 @@ int main(){
         cin >> num;
         vec.push_back(num);
     }
-    sort(vec.begin(), vec.end());
 
+    sort(vec.begin(), vec.end());
     func(0);
 }
