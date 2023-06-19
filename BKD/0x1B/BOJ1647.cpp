@@ -43,9 +43,6 @@ int main(){
         int a, b;
         ll cost;
         tie(cost, a, b) = edge[i];
-        if(!merge(a, b)) continue;
-        ans += cost;
-        cnt++;
         /* 
             edge는 sort되어 있으므로
             마을은 항상 n-1번 / 1집으로 분리되어야 유지비의 합이 최소가 된다.
@@ -55,6 +52,10 @@ int main(){
             정답이 된다.
         */
         if(cnt == n-2) break;
+        if(!merge(a, b)) continue;
+        ans += cost;
+        cnt++;
+
     }
     cout << ans;
 }
