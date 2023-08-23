@@ -411,3 +411,6 @@ settings.json
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio
+
+# temp solution
+test.cpp
