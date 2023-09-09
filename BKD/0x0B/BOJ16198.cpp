@@ -5,17 +5,20 @@ int n;
 vector<int> marbles;
 int max_val;
 
-void recur(int w, vector<int> marbles, int sum){
-    if(marbles.size() == 2){
+void recur(int sum){
+    if(marbles.size() == 3){
+        sum += marbles[0] * marbles[2];
         max_val = max(max_val, sum);
         return;
     }
 
     for(int i = 1; i < marbles.size() - 1; i++){
-        vector<int> tmp = marbles;
-        int tmp_sum = sum + tmp[i - 1] * tmp[i + 1];
-        tmp.erase(tmp.begin() + i);
-        recur(i, tmp, tmp_sum);
+        int tmp = marbles[i];
+        int tmp_sum = sum + marbles[i - 1] * marbles[i + 1];
+        
+        marbles.erase(marbles.begin() + i);
+        recur(tmp_sum);
+        marbles.emplace(marbles.begin() + i, tmp);
     }
 }
 
@@ -32,8 +35,7 @@ int main(){
         marbles.push_back(num);
     }
 
-    for(int i = 1; i < n - 1; i++)
-        recur(i, marbles, 0);
+    recur(0);
 
     cout << max_val;
 }
