@@ -1,4 +1,4 @@
-package JAVA;
+package JAVA.ch2;
 
 public class Ex2_1 {
     
