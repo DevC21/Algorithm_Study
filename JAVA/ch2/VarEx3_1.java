@@ -1,4 +1,4 @@
-public class VarEx3 {
+public class VarEx3_1 {
     
     public static void main(String[] args){
         // score에 final을 붙여서 상수가 되므로 값 변경 불가
