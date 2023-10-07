@@ -1,4 +1,4 @@
-public class Ex5_1_2 {
+public class Ex5_tmp_2 {
     public static void main(String[] args){
         int[] arr = new int[10]; // 배열의 선언과 생성을 동시에
         System.out.println("arr.length = " + arr.length);
