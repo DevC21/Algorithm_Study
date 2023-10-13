@@ -1,3 +1,5 @@
+package JAVA.ch5;
+
 public class Ex5_5 {
     public static void main(String[] args){
         int[] ball = new int[45];

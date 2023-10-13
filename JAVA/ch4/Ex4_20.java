@@ -1,3 +1,5 @@
+package JAVA.ch4;
+
 import java.util.Scanner;
 
 public class Ex4_20 {

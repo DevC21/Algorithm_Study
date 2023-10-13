@@ -1,3 +1,5 @@
+package JAVA.ch5;
+
 public class Ex5_tmp_1 {
     public static void main(String[] args){
 //      int[] score;        // 1. 배열 score를 선언(참조변수)

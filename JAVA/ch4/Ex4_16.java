@@ -1,3 +1,5 @@
+package JAVA.ch4;
+
 public class Ex4_16 {
     public static void main(String[] args){
         int sum = 0;

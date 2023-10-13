@@ -1,3 +1,5 @@
+package JAVA.ch4;
+
 import java.util.*;
 
 public class Ex4_5 {

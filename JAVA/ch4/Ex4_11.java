@@ -1,3 +1,5 @@
+package JAVA.ch4;
+
 public class Ex4_11 {
     public static void main(String[] args) { 
 		for(int i=2;i<=9;i++) { 

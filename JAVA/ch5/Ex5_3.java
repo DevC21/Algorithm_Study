@@ -1,3 +1,5 @@
+package JAVA.ch5;
+
 public class Ex5_3 {
     public static void main(String[] args){
         int[] score = {79, 88, 91, 33, 100, 55, 99};

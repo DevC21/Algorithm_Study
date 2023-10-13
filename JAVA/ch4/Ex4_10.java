@@ -1,3 +1,5 @@
+package JAVA.ch4;
+
 public class Ex4_10 {
     public static void main(String[] args){
         int sum = 0;	// 합계를 저장하기 위한 변수.

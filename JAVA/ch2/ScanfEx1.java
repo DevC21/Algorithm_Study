@@ -1,3 +1,4 @@
+package JAVA.ch2;
 import java.util.*;
 
 public class ScanfEx1 {

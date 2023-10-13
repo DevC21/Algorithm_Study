@@ -1,3 +1,5 @@
+package JAVA.ch5;
+
 import java.util.Scanner;
 
 public class Ex5_10 {

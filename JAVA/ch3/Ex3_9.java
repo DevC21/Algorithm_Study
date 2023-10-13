@@ -1,3 +1,5 @@
+package JAVA.ch3;
+
 public class Ex3_9 {
     public static void main(String[] args){
         int a = 1_000_000; // 10ÀÇ 6Á¦°ö

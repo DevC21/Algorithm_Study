@@ -1,3 +1,5 @@
+package JAVA.ch2;
+
 public class VarEx3_1 {
     
     public static void main(String[] args){

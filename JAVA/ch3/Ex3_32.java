@@ -1,3 +1,5 @@
+package JAVA.ch3;
+
 public class Ex3_32 {
     public static void main(String args[]) { 
         int  x, y, z;

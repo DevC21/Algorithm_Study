@@ -1,3 +1,5 @@
+package JAVA.ch5;
+
 public class Ex5_7 {
     public static void main(String[] args){
         System.out.println("매개변수의 개수 : " + args.length);

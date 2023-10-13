@@ -1,3 +1,5 @@
+package JAVA.ch5;
+
 import java.util.Arrays; // VSCODE 자동 import키는 Alt + Shift + O
 
 public class Ex5_tmp_3 {

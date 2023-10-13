@@ -1,3 +1,5 @@
+package JAVA.ch5;
+
 import java.util.Arrays;
 
 public class Ex5_1 {
